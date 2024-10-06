@@ -1,0 +1,44 @@
+{
+  "title": "Renxim (RXM) — El meme cuántico más genial del ecosistema QL1",
+  "welcome_message": "Como observador, decides el futuro de Renxim—¡colapsa la función de onda ahora!",
+  "contract_address": "Dirección del contrato",
+  "contract_value": "0xfE7Aa1F52633b0812bCAAa3fab4A4e2D3182Dbc4",
+  "what_is": "¿Qué es Renxim (RXM)?",
+  "about_text": "Renxim (RXM) es la moneda meme más nueva y genial en el ecosistema QL1, desarrollada por dos expertos, Ren y Xim. Inspirada en la Física Cuántica y la Teoría Cuántica, es un proyecto impulsado por la comunidad que está llamando la atención de todos.",
+  "quote": "\"Renxim existe en estados tanto de vida como de muerte como el gato de Schrödinger. Tu participación determina el resultado.\"",
+  "timeline_title": "Cronología y Coincidencias",
+  "timeline_subtitle": "Q17 O17 R17",
+  "timeline_events": [
+    {"date": "17 de marzo", "event": "Shiba Predator (QOM)"},
+    {"date": "17 de abril", "event": "A Hunter's Dream (CAW)"},
+    {"date": "17 de mayo", "event": "Childhood's End (O)"},
+    {"date": "17 de septiembre", "event": "Renxim (RXM)"}
+  ],
+  "coincidence_question": "¿Realmente crees que esto es solo una coincidencia?",
+  "community_title": "Comunidad",
+  "community_message": "¡Entrelacémonos cuánticamente juntos y moldeemos el futuro de RXM!",
+  "community_activities": "Actividades de la Comunidad",
+  "activities_list": [
+    "Airdrops y sesiones AMA",
+    "Campañas y recompensas exclusivas"
+  ],
+  "faq_title": "Preguntas Frecuentes",
+  "faq": [
+    {
+      "question": "Pregunta 1: ¿Cómo puedo comprar Renxim (RXM)?",
+      "answer": "En el mundo cuántico, tú como observador creas la realidad. Por lo tanto, si lo deseas, Renxim (RXM) existe simultáneamente en todos los principales intercambios. Sin embargo, hasta que la función de onda colapse, las posibilidades son infinitas. Actualmente, puedes conectar tu billetera a QomSwap y comprar directamente usando la dirección del contrato anterior.",
+      "link_text": "🔗 Comprar en QomSwap",
+      "link_url": "https://www.qomswap.com/info/tokens/0xfE7Aa1F52633b0812bCAAa3fab4A4e2D3182Dbc4?chainId=766"
+    },
+    {
+      "question": "Pregunta 2: ¿Cuándo llegará RXM a la luna?",
+      "answer": "Desde una perspectiva cuántica, RXM ya existe en la luna, Marte y otras galaxias. ¡Todo depende de si observas y participas!"
+    },
+    {
+      "question": "Pregunta 3: ¿Es seguro invertir en RXM?",
+      "answer": "Debido al principio de incertidumbre de Heisenberg, no podemos predecir el futuro con precisión. Pero en algún lugar del multiverso, RXM es la principal criptomoneda. ¡La ola de posibilidades crece con tu participación!"
+    }
+  ],
+  "footer_message": "※ Este sitio web funciona con paradojas cuánticas. El gato de Schrödinger está a salvo.",
+  "final_message": "Tu observación da forma al futuro de Renxim. ¡Gracias por unirte a nosotros en este viaje cuántico!"
+}
