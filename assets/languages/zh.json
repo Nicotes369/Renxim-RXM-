@@ -1,0 +1,44 @@
+{
+  "title": "Renxim (RXM) — QL1生态系统中最酷的量子模因",
+  "welcome_message": "作为观察者，您决定了Renxim的未来——现在就让波函数坍缩吧！",
+  "contract_address": "合约地址",
+  "contract_value": "0xfE7Aa1F52633b0812bCAAa3fab4A4e2D3182Dbc4",
+  "what_is": "什么是Renxim (RXM)？",
+  "about_text": "Renxim (RXM)是由两位专家Ren和Xim开发的最新最酷的模因币，灵感源自量子物理和量子理论。作为一个社区主导的项目，它在QL1生态系统中备受关注。",
+  "quote": "“Renxim就像薛定谔的猫，同时存在于生与死的状态。您的参与决定了结果。”",
+  "timeline_title": "时间线与巧合",
+  "timeline_subtitle": "Q17 O17 R17",
+  "timeline_events": [
+    {"date": "3月17日", "event": "Shiba Predator (QOM)"},
+    {"date": "4月17日", "event": "A Hunter's Dream (CAW)"},
+    {"date": "5月17日", "event": "Childhood's End (O)"},
+    {"date": "9月17日", "event": "Renxim (RXM)"}
+  ],
+  "coincidence_question": "您真的认为这只是巧合吗？",
+  "community_title": "社区",
+  "community_message": "让我们一起量子纠缠，共同塑造RXM的未来！",
+  "community_activities": "社区活动",
+  "activities_list": [
+    "空投和AMA会议",
+    "独家活动和奖励"
+  ],
+  "faq_title": "常见问题",
+  "faq": [
+    {
+      "question": "Q1：如何购买Renxim (RXM)？",
+      "answer": "在量子世界中，作为观察者的您创造了现实。因此，如果您愿意，Renxim (RXM)同时存在于所有主要交易所。然而，在波函数坍缩之前，可能性是无限的。目前，您可以连接您的钱包到QomSwap，使用上述合约地址直接购买。",
+      "link_text": "🔗 在QomSwap上购买",
+      "link_url": "https://www.qomswap.com/info/tokens/0xfE7Aa1F52633b0812bCAAa3fab4A4e2D3182Dbc4?chainId=766"
+    },
+    {
+      "question": "Q2：RXM何时会涨到月球？",
+      "answer": "从量子角度来看，RXM已经存在于月球、火星和其他星系。这一切取决于您是否观察并参与！"
+    },
+    {
+      "question": "Q3：投资RXM安全吗？",
+      "answer": "由于海森堡不确定性原理，我们无法准确预测未来。但在多元宇宙中的某个地方，RXM是顶级加密货币。可能性的波浪随着您的参与而变得更大！"
+    }
+  ],
+  "footer_message": "※本网站由量子悖论运营。薛定谔的猫是安全的。",
+  "final_message": "您的观察塑造了Renxim的未来。感谢您加入我们的量子之旅！"
+}
