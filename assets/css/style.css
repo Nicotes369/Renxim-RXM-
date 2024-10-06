@@ -1,0 +1,155 @@
+/* ベーススタイル */
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    background-color: #000000;
+}
+
+/* 言語選択メニュー */
+.language-selector {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 1000;
+}
+
+.language-selector select {
+    padding: 5px;
+    background-color: #1c1c1c;
+    color: #ffffff;
+    border: none;
+}
+
+/* ヘッダー */
+header {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url('../images/background.gif');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+header .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+header .content {
+    position: relative;
+    z-index: 1;
+    color: #ffffff;
+}
+
+header h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+header p {
+    font-size: 1.2rem;
+}
+
+/* コントラクトアドレス */
+.contract-address {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #1c1c1c;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+/* ソーシャルアイコン */
+.social-icons a {
+    color: #ffffff;
+    margin: 0 10px;
+    text-decoration: none;
+    font-size: 1.5rem;
+    transition: color 0.3s;
+}
+
+.social-icons a:hover {
+    color: #4285f4;
+}
+
+/* メインコンテンツ */
+main {
+    padding: 50px;
+    background-color: #04040c;
+}
+
+section {
+    margin-bottom: 50px;
+}
+
+section h2 {
+    font-size: 2.5rem;
+    color: #4285f4;
+    margin-bottom: 20px;
+}
+
+section p,
+section blockquote {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: #ffffff;
+}
+
+blockquote {
+    font-style: italic;
+    color: #666666;
+    border-left: 5px solid #4285f4;
+    padding-left: 20px;
+}
+
+/* タイムライン */
+#timeline ul {
+    list-style: none;
+    padding: 0;
+}
+
+#timeline ul li {
+    margin-bottom: 10px;
+    color: #ffffff;
+}
+
+#timeline ul li strong {
+    color: #4285f4;
+}
+
+/* FAQ */
+.faq-item {
+    margin-bottom: 30px;
+}
+
+.faq-item h3 {
+    font-size: 1.5rem;
+    color: #4285f4;
+    margin-bottom: 10px;
+}
+
+.faq-item p {
+    font-size: 1.1rem;
+    color: #ffffff;
+}
+
+/* フッター */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #141414;
+    color: #ffffff;
+}
+
+footer p {
+    margin: 10px 0;
+}
+
