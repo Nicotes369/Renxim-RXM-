@@ -1,0 +1,30 @@
+/* Quantum Computerモードのスタイル */
+body.binary-mode {
+    background-color: #000000;
+    color: #040488;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* 2進数テキスト用スタイル */
+.binary-text {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #040488;
+}
+
+/* 背景アニメーション */
+@keyframes matrix {
+    0% {
+        background-position: 0 0;
+    }
+    100% {
+        background-position: 100% 100%;
+    }
+}
+
+body.binary-mode {
+    animation: matrix 10s linear infinite;
+    background-image: linear-gradient(45deg, #04040c 25%, transparent 25%, transparent 75%, #04040c 75%, #04040c),
+                      linear-gradient(45deg, #04040c 25%, transparent 25%, transparent 75%, #04040c 75%, #04040c);
+    background-size: 10px 10px;
+}
