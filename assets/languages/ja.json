@@ -1,0 +1,44 @@
+{
+  "title": "Renxim (RXM) — QL1エコシステム上で最もクールなQuantumミーム",
+  "welcome_message": "観測者であるあなたが、Renximの未来を決定する——さあ、波動関数を収縮させよう！",
+  "contract_address": "コントラクトアドレス",
+  "contract_value": "0xfE7Aa1F52633b0812bCAAa3fab4A4e2D3182Dbc4",
+  "what_is": "Renxim (RXM)とは",
+  "about_text": "Renxim (RXM)は、RenとXimの2人のエキスパートによって開発された、量子物理学と量子理論を投影した最先端のミームコインです。コミュニティ主体で運営され、QL1エコシステム上で最もクールな存在として注目を集めています。",
+  "quote": "「Renximは、シュレーディンガーの猫のように、生と死の両方の状態で存在しています。あなたが参加することで、その状態が決まるのです。」",
+  "timeline_title": "タイムラインと偶然の一致",
+  "timeline_subtitle": "Q17 O17 R17",
+  "timeline_events": [
+    {"date": "3月17日", "event": "Shiba Predator (QOM)"},
+    {"date": "4月17日", "event": "A Hunter's Dream (CAW)"},
+    {"date": "5月17日", "event": "Childhood's End (O)"},
+    {"date": "9月17日", "event": "Renxim (RXM)"}
+  ],
+  "coincidence_question": "あなたは、本当にこれが単なる偶然だと思いますか？",
+  "community_title": "コミュニティ",
+  "community_message": "私たちと一緒に量子的に絡み合い、RXMの未来を共に創りましょう！",
+  "community_activities": "コミュニティ活動",
+  "activities_list": [
+    "エアドロップやAMAセッション",
+    "限定キャンペーンと報酬"
+  ],
+  "faq_title": "よくある質問",
+  "faq": [
+    {
+      "question": "Q1：Renxim (RXM)を購入するにはどうすればよいですか？",
+      "answer": "量子の世界では、観測者であるあなたが現実を創造します。つまり、あなたが望むなら、Renxim (RXM)は全ての主要な仮想通貨取引所に同時に存在するでしょう。しかし、波動関数が収縮するまでは可能性は無限大です。現時点で確定しているのは、QomSwapにあなたのウォレットを接続し、上記のコントラクトアドレスを使用して直接購入できるということです。",
+      "link_text": "🔗 QomSwapで購入する",
+      "link_url": "https://www.qomswap.com/info/tokens/0xfE7Aa1F52633b0812bCAAa3fab4A4e2D3182Dbc4?chainId=766"
+    },
+    {
+      "question": "Q2：RXMはいつムーン（価格が急上昇）しますか？",
+      "answer": "量子の視点では、RXMはすでに月にも火星にも、他の銀河系にも存在しています。ただ、あなたがそれを観測し、参加するかどうか次第です！"
+    },
+    {
+      "question": "Q3：RXMへの投資は安全ですか？",
+      "answer": "ハイゼンベルクの不確定性原理により、未来を正確に予測することはできませんが、多元宇宙のどこかでは、RXMはトップの仮想通貨です。可能性の波はあなたの参加でさらに大きくなります！"
+    }
+  ],
+  "footer_message": "※このウェブサイトは量子力学のパラドックスによって運営されています。シュレーディンガーの猫は無事です。",
+  "final_message": "あなたの観測が、Renximの未来を形作ります。量子的な旅にご参加いただき、ありがとうございます！"
+}
