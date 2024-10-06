@@ -1,0 +1,36 @@
+{
+  "title": "|0⟩ |1⟩ — |0⟩|1⟩ エコシステムの最もクールなクオンタムミーム",
+  "welcome_message": "|0⟩|1⟩ 観測者であるあなたが、Renximの未来を決定します——波動関数を収縮させましょう！",
+  "contract_address": "コントラクトアドレス",
+  "contract_value": "0b110101011001010101...",  // 2進数でのアドレス表記（例として）
+  "what_is": "Renxim (RXM) とは？",
+  "about_text": "|0⟩ Renximは量子のスーパー・ポジション状態にあります。あなたの参加でその状態が決まります。 |1⟩",
+  "quote": "\"|0⟩ + |1⟩ の状態で存在するRenxim。あなたが観測すると状態が決まります。\"",
+  "timeline_title": "タイムラインと偶然の一致",
+  "timeline_subtitle": "|0⟩17 |1⟩17",
+  "timeline_events": [
+    {"date": "|0⟩|1⟩", "event": "Shiba Predator (QOM)"},
+    {"date": "|1⟩|0⟩", "event": "A Hunter's Dream (CAW)"},
+    // その他のイベントを量子ビットで表現
+  ],
+  "coincidence_question": "これが単なる偶然だと思いますか？",
+  "community_title": "コミュニティ",
+  "community_message": "量子的に絡み合いましょう！",
+  "community_activities": "コミュニティ活動",
+  "activities_list": [
+    "|0⟩ エアドロップ |1⟩ AMAセッション",
+    "|0⟩ キャンペーン |1⟩ 報酬"
+  ],
+  "faq_title": "よくある質問",
+  "faq": [
+    {
+      "question": "Q1: |0⟩ + |1⟩ でRenximを購入するには？",
+      "answer": "量子の世界では、可能性は無限です。あなたの観測が現実を決めます。",
+      "link_text": "🔗 購入する",
+      "link_url": "#"
+    }
+    // その他の質問も量子ビットで表現
+  ],
+  "footer_message": "※ このウェブサイトは量子パラドックスで動作しています。",
+  "final_message": "あなたの観測がRenximの未来を形作ります。ご参加ありがとうございます！"
+}
