@@ -1,0 +1,44 @@
+{
+  "title": "Renxim (RXM) — QL1 Ecosystem's Coolest Quantum Meme",
+  "welcome_message": "As the observer, you decide the future of Renxim—collapse the wave function now!",
+  "contract_address": "Contract Address",
+  "contract_value": "0xfE7Aa1F52633b0812bCAAa3fab4A4e2D3182Dbc4",
+  "what_is": "What is Renxim (RXM)?",
+  "about_text": "Renxim (RXM) is the latest and coolest meme coin in the QL1 ecosystem, developed by two experts, Ren and Xim. Inspired by Quantum Physics and Quantum Theory, it's a community-driven project that's catching everyone's attention.",
+  "quote": "\"Renxim exists in both alive and dead states like Schrödinger's cat. Your participation determines the outcome.\"",
+  "timeline_title": "Timeline and Coincidences",
+  "timeline_subtitle": "Q17 O17 R17",
+  "timeline_events": [
+    {"date": "March 17", "event": "Shiba Predator (QOM)"},
+    {"date": "April 17", "event": "A Hunter's Dream (CAW)"},
+    {"date": "May 17", "event": "Childhood's End (O)"},
+    {"date": "September 17", "event": "Renxim (RXM)"}
+  ],
+  "coincidence_question": "Do you really think this is just a coincidence?",
+  "community_title": "Community",
+  "community_message": "Let's get quantumly entangled together and shape the future of RXM!",
+  "community_activities": "Community Activities",
+  "activities_list": [
+    "Airdrops and AMA sessions",
+    "Exclusive campaigns and rewards"
+  ],
+  "faq_title": "FAQ",
+  "faq": [
+    {
+      "question": "Q1: How can I purchase Renxim (RXM)?",
+      "answer": "In the quantum world, you as the observer create reality. So if you desire, Renxim (RXM) exists simultaneously on all major exchanges. However, until the wave function collapses, possibilities are infinite. Currently, you can connect your wallet to QomSwap and purchase directly using the contract address above.",
+      "link_text": "🔗 Purchase on QomSwap",
+      "link_url": "https://www.qomswap.com/info/tokens/0xfE7Aa1F52633b0812bCAAa3fab4A4e2D3182Dbc4?chainId=766"
+    },
+    {
+      "question": "Q2: When will RXM moon?",
+      "answer": "From a quantum perspective, RXM already exists on the moon, Mars, and other galaxies. It all depends on whether you observe and participate!"
+    },
+    {
+      "question": "Q3: Is investing in RXM safe?",
+      "answer": "Due to Heisenberg's Uncertainty Principle, we can't predict the future precisely. But somewhere in the multiverse, RXM is the top cryptocurrency. The wave of possibilities grows larger with your participation!"
+    }
+  ],
+  "footer_message": "※This website is operated by quantum paradoxes. Schrödinger's cat is safe.",
+  "final_message": "Your observation shapes the future of Renxim. Thank you for joining us on this quantum journey!"
+}
