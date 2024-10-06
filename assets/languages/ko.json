@@ -1,0 +1,44 @@
+{
+  "title": "Renxim (RXM) — QL1 생태계에서 가장 멋진 퀀텀 밈",
+  "welcome_message": "관찰자인 당신이 Renxim의 미래를 결정합니다—지금 파동 함수를 붕괴시키세요!",
+  "contract_address": "컨트랙트 주소",
+  "contract_value": "0xfE7Aa1F52633b0812bCAAa3fab4A4e2D3182Dbc4",
+  "what_is": "Renxim (RXM)이란?",
+  "about_text": "Renxim (RXM)은 두 명의 전문가 Ren과 Xim이 개발한 QL1 생태계에서 가장 최신이고 멋진 밈 코인입니다. 양자 물리학과 양자 이론에서 영감을 받은 이 커뮤니티 주도의 프로젝트는 모두의 관심을 끌고 있습니다.",
+  "quote": "\"Renxim은 슈뢰딩거의 고양이처럼 살아있고 죽어있는 상태로 존재합니다. 당신의 참여가 결과를 결정합니다.\"",
+  "timeline_title": "타임라인과 우연의 일치",
+  "timeline_subtitle": "Q17 O17 R17",
+  "timeline_events": [
+    {"date": "3월 17일", "event": "Shiba Predator (QOM)"},
+    {"date": "4월 17일", "event": "A Hunter's Dream (CAW)"},
+    {"date": "5월 17일", "event": "Childhood's End (O)"},
+    {"date": "9월 17일", "event": "Renxim (RXM)"}
+  ],
+  "coincidence_question": "정말로 이것이 단순한 우연이라고 생각하십니까?",
+  "community_title": "커뮤니티",
+  "community_message": "우리 함께 양자 얽힘되어 RXM의 미래를 만들어봅시다!",
+  "community_activities": "커뮤니티 활동",
+  "activities_list": [
+    "에어드롭 및 AMA 세션",
+    "독점 캠페인 및 보상"
+  ],
+  "faq_title": "자주 묻는 질문",
+  "faq": [
+    {
+      "question": "질문 1: Renxim (RXM)을 어떻게 구매할 수 있나요?",
+      "answer": "양자 세계에서는 관찰자인 당신이 현실을 창조합니다. 따라서 원하신다면, Renxim (RXM)은 모든 주요 거래소에 동시에 존재합니다. 그러나 파동 함수가 붕괴될 때까지 가능성은 무한합니다. 현재로서는, 당신의 지갑을 QomSwap에 연결하고 위의 컨트랙트 주소를 사용하여 직접 구매할 수 있습니다.",
+      "link_text": "🔗 QomSwap에서 구매하기",
+      "link_url": "https://www.qomswap.com/info/tokens/0xfE7Aa1F52633b0812bCAAa3fab4A4e2D3182Dbc4?chainId=766"
+    },
+    {
+      "question": "질문 2: RXM은 언제 달에 도달하나요?",
+      "answer": "양자 관점에서 RXM은 이미 달, 화성, 다른 은하에 존재합니다. 그것은 당신이 그것을 관찰하고 참여하는지에 달려있습니다!"
+    },
+    {
+      "question": "질문 3: RXM에 투자하는 것이 안전한가요?",
+      "answer": "하이젠베르크의 불확정성 원리 때문에, 우리는 미래를 정확하게 예측할 수 없습니다. 그러나 멀티버스 어딘가에서 RXM은 최고의 암호화폐입니다. 가능성의 파동은 당신의 참여로 더욱 커집니다!"
+    }
+  ],
+  "footer_message": "※ 이 웹사이트는 양자 역학의 패러독스로 운영됩니다. 슈뢰딩거의 고양이는 안전합니다.",
+  "final_message": "당신의 관찰이 Renxim의 미래를 형성합니다. 이 양자 여정에 함께 해주셔서 감사합니다!"
+}
